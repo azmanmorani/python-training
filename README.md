@@ -12,6 +12,16 @@ This course is designed to be an introduction to numerical computing and data vi
 
 This training is designed to be conducted in-person, led by J.P. Morgan technologists and traders. For interested institutional clients, please contact your J.P. Morgan team.
 
+### Course Content
+- Introduction to Python programming
+- Numerical computing with NumPy
+- Data manipulation with pandas
+- Data visualization with matplotlib and seaborn
+- Practical case studies 
+
+## Getting Started
+To start the training, launch the cloud instance using Binder. Ensure you have a stable internet connection and a modern web browser.
+
 [![](https://img.shields.io/badge/Launch-Cloud%20Instance-brightgreen?style=for-the-badge)](http://mybinder.org/v2/gh/jpmorganchase/python-training/main?urlpath=lab)
 
 ## Platform Attribution
@@ -23,6 +33,14 @@ This repository relies on the [Binder](https://mybinder.readthedocs.io/en/latest
 - Financial data provided by [IEX Cloud](https://iexcloud.io)
 - Airport and route data provided by [OpenFlights.org](https://openflights.org/data.html#license)
 
+
+## Contributing
+We welcome contributions to improve this training material. If you would like to contribute, please follow these steps:
+1. Fork the repository.
+2. Create a new branch for your changes.
+3. Make your changes and commit them with a clear message.
+4. Push your changes to your forked repository.
+5. Submit a pull request with a detailed description of your changes.
 
 ## License
 This software is licensed under the Apache 2 license. See the [LICENSE](LICENSE) file for details.
